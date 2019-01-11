@@ -1,0 +1,9 @@
+ls
+mkdir mk
+date
+cal
+ecgo "hl"
+echo "hll"
+name = "Bh"
+echo name
+

@@ -1,0 +1,8 @@
+ls
+mkdir mk
+rm file1
+date
+cal
+name = "ok"
+echo $name
+
