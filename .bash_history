@@ -1,114 +1,3 @@
-ls
-clear
-su -
-ls
-ls -al
-touch trivedi.txt
-sudo su
-LS
-ls
-ls -la
-cal 
-cal 9 december
-cal 9,1993
-17/11/1993
-cal 
-ls
-ls -la
-alias c=clear
-c
-alias d=ls
-d
-ls
-pwd
-ls
-ls -al
-sudo su
-sudo su
-/
-cd
-cd ..
-touch tr11.txt
-vi trivedi.txt
-Ṭ
-ls -lh
-echo hi
-echo hgy,jhkjlol
-cd ..
-cd ~
-cd /
-cd /
-cd "trivedi.txt "
-touch tr
-touch tr.txt
-cd trivedibhargavi17
-su
-CD /
-CD / var
-cd /var/log
-pwd
-cd anaconda
-touch anaconda
-su
-hostname
-cat /etc/sysconfig/network
-cd /etc
-ls
-cd systemconfig
-vi systemconfig
-cat /etc/sysconfig/network
-cd
-cat > sar
-cat sar
-ls
-cd /home
-ls
-cd
-mkdir desktop
-ls
-cd trivedi
-ls
-cd
-ls -la
-cd
-cd etc
-cd /etc
-ls
-ccd
-bin
-/bin
-/sbin
-cd 
-cd /
-ls
-cd bin
-ls
-cd ..
-ls
-cd
-pwd
-su root
-passwd root
-su root
-man mkdir
-manpath
-system
-manwidth
-MANWIDTH
-SYSTEM
-whatis
-man system
-man system trivedi.txt
-whereis -m whois
-bhargavi
-man whereis
-man configfile
-man whereis
-man passwd
-man man
-cd ..
-cd /
-pwd
 cd ..
 pwd
 cd
@@ -998,3 +887,114 @@ git status
 vi pikachu
 git add .
 vi .bebo.swp
+yum install maven
+sudo yum install maven
+mvn archetype:generate
+mvn compile
+ls
+ls -al
+vi pokemon
+git status
+  git branch
+touch s1
+vi s1
+git add s1
+vi s1
+cat s1
+git status
+clear
+git checkout --s1
+git checkout pikachu
+git checkout s1
+git status s1
+git --checkout s1
+git checkout s1
+vi s1
+git add s1
+git status s1
+vi s1
+git checkout --s1
+git checkout s1
+vi s1
+git diff stagge
+git diff -cached
+got checkout -- s1
+git add s1
+vi s1
+git diff
+git add pokemon
+git diff
+git add s1
+git diff
+vi s1
+git diff
+clera
+clear
+git checkout -- s1
+vi s1
+git doff
+git diff
+git diff -chached
+git diff -staged
+git diff -stagged
+git stat
+git -stat
+git diff -stat
+git diff -chached
+git diff -staged
+git diff --staged
+vi s1
+git log
+git log s1
+git log --s1
+git log -- s1
+git commit -m "commit s1 and get that version back"
+git log
+git checkout a78c1 --s1
+git checkout a78c1 -- s1
+git checkout a78c1 s1
+git checkout -- s1
+git checkout --s1
+git checkout a78c1
+git commit -m "s1 commit"
+git push origin master
+git checkout a78c1
+vi s1
+git log 
+git log --graph --online --decorate --all
+git log --graph --oneline --decorate --all
+git branch INDEX-SA
+git checkout INDEX-SA
+ls -al
+vi s1
+git checkout master
+la -al
+vi s1
+git merge INDEX-SA
+git diff
+git log
+git rm s1
+git -rm s1
+git rm .
+git add .
+git commit -m "commit"
+git diff -cached
+git diff -staged
+git diff -cached
+git rm s1
+vi s1
+git -rf s1
+git -f s1
+vi s1
+git -f s1
+git --bare s1
+git --bare 
+git -f s1
+git reseyt s1
+git reset s1
+git status
+git log
+git log ea60310
+git merge WT INDEX-SA
+vi file1
+git push origin master
