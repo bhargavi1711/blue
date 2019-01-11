@@ -37,18 +37,20 @@ $
 	e
 
 # File marks:
-'0  1  0  ~/file1
-'1  1  0  ~/s1
-'2  6  0  ~/s1
-'3  2  17  ~/s1
-'4  2  0  ~/s1
-'5  7  0  ~/s1
-'6  1  0  ~/pokemon
-'7  1  0  ~/.bebo.swp
-'8  2  0  ~/pikachu
-'9  1  0  ~/pikachu
+'0  2  0  ~/central
+'1  1  0  ~/file1
+'2  1  0  ~/s1
+'3  6  0  ~/s1
+'4  2  17  ~/s1
+'5  2  0  ~/s1
+'6  7  0  ~/s1
+'7  1  0  ~/pokemon
+'8  1  0  ~/.bebo.swp
+'9  2  0  ~/pikachu
 
 # Jumplist (newest first):
+-'  2  0  ~/central
+-'  1  0  ~/central
 -'  1  0  ~/file1
 -'  1  0  ~/s1
 -'  6  0  ~/s1
@@ -148,6 +150,12 @@ $
 -'  1  0  /etc/systemconfig
 
 # History of marks within files (newest to oldest):
+
+> ~/central
+	"	2	0
+	^	2	0
+	.	1	3
+	+	1	3
 
 > ~/file1
 	"	1	0
@@ -267,6 +275,3 @@ $
 	^	4	0
 	.	3	5
 	+	3	5
-
-> ~/chec
-	"	1	0
